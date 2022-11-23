@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nicholas Rogoff working at Avanade UK Ltd. @nrogoff-avanade
-- 👀 I’m interested in 
+- 👀 I’m interested in Paragliding, Climbing, Skiing, Photography, Tech, Food and Travel
 - 🌱 I’m currently learning everything, but new stuff is Java, Pulumi and GitHub
 - 💞️ I’m looking to collaborate on DevSecOps, Azure and .Net distributed architectures
 - 📫 You can reach me at nicholas.rogoff@avanade.com
